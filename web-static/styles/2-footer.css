@@ -1,0 +1,14 @@
+ footer {
+          height: 70px;
+          background-color: #00FF00;
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width:  100%
+      }
+ 
+      p {
+        text-align: center;
+        padding: 6px;
+ 
+      }
